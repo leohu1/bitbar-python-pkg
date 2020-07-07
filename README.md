@@ -42,9 +42,9 @@ Bar.show()
 parameter：
 ```python
 BarLine(line, color=None, size=None, font=None)
-newline(line, color=None, size=None, font=None, onclick=None, terminal=None, href=None)
+newline(line, color=None, size=None, font=None, bash=None, terminal=None, href=None)
 submenusHead(line, color=None, size=None, font=None)
-submenus(line, color=None, size=None, font=None, onclick=None, terminal=None, href=None)
+submenus(line, color=None, size=None, font=None, bash=None, terminal=None, href=None)
 show()
 ```
 
