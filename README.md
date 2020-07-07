@@ -1,8 +1,8 @@
 # bitbar
-bitbar-python
-bitbar write with python
-a python out put
-Bar Line:
+bitbar-python\n
+bitbar write with python\n
+a python out put\n
+Bar Line:\n
 ```python
 from bitbar import BitBar
 
